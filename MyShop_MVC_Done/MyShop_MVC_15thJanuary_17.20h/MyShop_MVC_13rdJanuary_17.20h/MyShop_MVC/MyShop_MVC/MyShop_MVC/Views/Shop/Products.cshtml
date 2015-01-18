@@ -1,0 +1,735 @@
+﻿@model MyShop_MVC.Models.ShoppingCart
+@{
+    ViewBag.Title = "Products";
+    var u = Session["user"];
+}
+
+<section id="slider">
+    <!--slider-->
+    <div class="container">
+        <div class="row">
+            <div class="breadcrumbs">
+                <ol class="breadcrumb">
+                    <li><a href="/Shop/Index">Home</a></li>
+                    <li class="active">Products</li>
+                </ol>
+            </div><!--/breadcrums-->
+            <div class="col-sm-12">
+                <div id="slider-carousel" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#slider-carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#slider-carousel" data-slide-to="1"></li>
+                        <li data-target="#slider-carousel" data-slide-to="2"></li>
+                    </ol>
+
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <div class="col-sm-6">
+                                <h1><span>MyShop</span></h1>
+                                <h2>New Looks for $50</h2>
+                                <p>Give your home a cosy new look for under $50 this January. New cushion covers and duvets in luxurious patterns will give your existing furniture an instant update. </p>
+                                <button type="button" class="btn btn-default get">Get it now</button>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/images/16.JPG" class="girl img-responsive" alt="" />
+                                @*<img src="~/images/pricing.png" class="pricing" alt="" />*@
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="col-sm-6">
+                                <h1><span>MyShop</span></h1>
+                                <h2>Gold Forever</h2>
+                                <p>Get gorgeous for the New Year with golden opulence. Shine in style. From interiors to glamour make up, add a little shimmer to 2015 with gilded accessories. </p>
+                                <button type="button" class="btn btn-default get">Get it now</button>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/images/17.jpg" class="girl img-responsive" alt="" />
+                                @*<img src="~/images/pricing.png" class="pricing" alt="" />*@
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="col-sm-6">
+                                <h1><span>MyShop</span></h1>
+                                <h2>New Year, New Wardrobe</h2>
+                                <p>Start the year with a style statement. Turn heads with a bold monochrome palette and geometric patterns. Take a fresh approach to fashion. It’ll be a year to remember. </p>
+                                <button type="button" class="btn btn-default get">Get it now</button>
+                            </div>
+                            <div class="col-sm-6">
+                                <img src="~/images/18.jpg" class="girl img-responsive" alt="" />
+                                @*<img src="~/images/pricing.png" class="pricing" alt="" />*@
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <a href="#slider-carousel" class="left control-carousel hidden-xs" data-slide="prev">
+                        <i class="glyphicon glyphicon-chevron-left"></i>
+                    </a>
+                    <a href="#slider-carousel" class="right control-carousel hidden-xs" data-slide="next">
+                        <i class="glyphicon glyphicon-chevron-right"></i>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section><!--/slider-->
+
+
+
+
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <div class="left-sidebar">
+                    <h2>Category</h2>
+                    <div class="navbar category-products" id="accordian">
+                        <!--category-productsr-->
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordian" href="#SportingGoods">
+                                        Sporting Goods
+                                    </a>
+                                </h4>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordian" href="#mens">
+                                        Fashion <i class="glyphicon glyphicon-chevron-down"></i>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="mens" class="panel-collapse collapse">
+                                <div class="panel-body">
+                                    <ul>
+                                        <li><a href="#FashionMen">Men's</a></li>
+                                        <li><a href="#FashionWomen">Women's</a></li>
+                                        <li><a href="#Kids">Kid's</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title"><a href="#">Electronics</a></h4>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title"><a href="#">Collectibles & Art</a></h4>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title"><a href="#">Households</a></h4>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title"><a href="#">Bags</a></h4>
+                            </div>
+                        </div>
+                    </div><!--/category-products-->
+
+                </div>
+            </div>
+
+
+
+
+            <div class="features_items" id="SportingGoods">
+                <!--SportingGoods features_items-->
+                <h2 class="title text-center">Features Items</h2>
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="https://www.sportswearetc.biz/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/p/sporting_kc_away_jersey.jpg" alt="" />
+                                <h2>$60</h2>
+                                <p>Adidas t-shirts</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="glyphicon glyphicon-shopping-cart"></i>Add to cart</a>
+                            </div>
+                            <div class="product-overlay">
+                                <div class="overlay-content">
+                                    <h2>$60</h2>
+                                    <p>Adidas T-shirts</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop")) { 
+                                        @Html.Hidden("ProductID", 1 );
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart "> 
+                                    }                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=42351308" alt="" />
+                                <h2>$1500</h2>
+                                <p>Rowing boat</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="glyphicon glyphicon-shopping-cart"></i>Add to cart</a>
+                            </div>
+                            <div class="product-overlay">
+                                <div class="overlay-content">
+                                    <h2>$1500</h2>
+                                    <p>Rowing boat</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 2);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=25271100" alt="" />
+                                <h2>$45</h2>
+                                <p>Soccer ball</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="glyphicon glyphicon-shopping-cart"></i>Add to cart</a>
+                            </div>
+                            <div class="product-overlay">
+                                <div class="overlay-content">
+                                    <h2>$45</h2>
+                                    <p>Soccer ball</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 3);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=2077599" alt="" />
+                                <h2>$85</h2>
+                                <p>Nike shoes</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="glyphicon glyphicon-shopping-cart"></i>Add to cart</a>
+                            </div>
+                            <div class="product-overlay">
+                                <div class="overlay-content">
+                                    <h2>$85</h2>
+                                    <p>Nike shoes</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 4);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                            </div>
+                            <img src="images/home/new.png" class="new" alt="" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=33149621" alt="" />
+                                <h2>$120</h2>
+                                <p>Baseball bat</p>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="glyphicon glyphicon-shopping-cart"></i>Add to cart</a>
+                            </div>
+                            <div class="product-overlay">
+                                <div class="overlay-content">
+                                    <h2>$120</h2>
+                                    <p>Baseball bat</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 5);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                            </div>
+                            <img src="images/home/sale.png" class="new" alt="" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <img src="http://guide.alibaba.com/sport/images/shop/66/07/31/4/wilson-sporting-goods-tour-slam-tennis-racquet_1147384.jpeg" alt="" />
+                                <h2>$150</h2>
+                                <p>Tennis racket</p>
+                                @using (Html.BeginForm("AddToCart", "Shop"))
+                                {
+                                    @Html.Hidden("ProductID", 6);
+                                    <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                }
+                                
+                            </div>
+                            <div class="product-overlay">
+                                <div class="overlay-content">
+                                    <h2>$150</h2>
+                                    <p>Tennis racket</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 6);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div><!--SportingGoods features_items-->
+            <!--FashionMen features_items-->
+            <div class="row">
+                <div class="features_items" id="FashionMen">
+
+                    <h2 class="title text-center">Clothing for Men</h2>
+                    <div class="col-sm-3"></div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://image.made-in-china.com/43f34j00sjuTHCodflbI/2014-Hot-Sale-Fashion-Men-s-Canvas-Casual-Sports-Shoes-with-Comfortable-BF-A278-.jpg" alt="" />
+                                    <h2>$100</h2>
+                                    <p>Shoes</p>
+                                    <a href="#" class="btn btn-default add-to-cart"><i class="glyphicon glyphicon-shopping-cart"></i>Add to cart</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$100</h2>
+                                        <p>Shoes</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 7);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=58359709" alt="" />
+                                    <h2>$250</h2>
+                                    <p>Jacket</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 8);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$250</h2>
+                                        <p>Jacket</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 8);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=64807383" alt="" />
+                                    <h2>$340</h2>
+                                    <p>Trousers </p>
+                                    <a href="#" class="btn btn-default add-to-cart"><i class="glyphicon glyphicon-shopping-cart"></i>Add to cart</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$340</h2>
+                                        <p>Trousers</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 9);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3"></div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://www.allfreesewing.com/master_images/Super-Speedy-Suspenders.jpg" alt="" />
+                                    <h2>$35</h2>
+                                    <p>Belts</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 10);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$35</h2>
+                                        <p>Belts</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 10);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                                <img src="images/home/new.png" class="new" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="https://s-media-cache-ak0.pinimg.com/736x/33/0a/de/330ade9379cf031d1d67fd197adf4840.jpg" alt="" />
+                                    <h2>$180</h2>
+                                    <p>T-Shirts</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 11);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$180</h2>
+                                        <p>T-Shirts</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 11);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                                <img src="images/home/sale.png" class="new" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://ak2.polyvoreimg.com/cgi/img-thing/size/l/tid/41023044.jpg" alt="" />
+                                    <h2>$250</h2>
+                                    <p>Sweater</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 12);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$250</h2>
+                                        <p>Sweater</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 12);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div><!--FashionMen features_items-->
+            </div><!--END Row-->
+            <!--FashionWomen features_items-->
+            <div class="row">
+                <div class="features_items" id="FashionWomen">
+
+                    <h2 class="title text-center">Clothing for Women</h2>
+                    <div class="col-sm-3"></div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://ak0.scstatic.net/1/cdn2-cont3.sweetcouch.com/140241316492689972-hogan-women-belt.jpg" alt="" />
+                                    <h2>$80</h2>
+                                    <p>Belts</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 13);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$80</h2>
+                                        <p>Belts</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 13);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://i.ebayimg.com/00/s/NTIyWDUyMg==/z/JoEAAMXQQtNR3QNQ/$T2eC16d,!%29sE9swm,vh4BR3QNPlt5w~~60_35.JPG" alt="" />
+                                    <h2>$150</h2>
+                                    <p>Shoes</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 14);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$150</h2>
+                                        <p>Shoes</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 14);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://ak1.polyvoreimg.com/cgi/img-thing/size/l/tid/41362267.jpg" alt="" />
+                                    <h2>$345</h2>
+                                    <p>Cotton Dress</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 15);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$345</h2>
+                                        <p>Cotton Dress</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 15);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3"></div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://ak1.polyvoreimg.com/cgi/img-thing/size/l/tid/5668143.jpg" alt="" />
+                                    <h2>$185</h2>
+                                    <p>Designer Clothes</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 16);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$185</h2>
+                                        <p>Designer Clothes</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 16);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                                <img src="images/home/new.png" class="new" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://inkcloth.com/wp-content/uploads/2013/04/stylish-watches-for-women.jpg" alt="" />
+                                    <h2>$600</h2>
+                                    <p>Watches</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 17);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$600</h2>
+                                        <p>Watches</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 17);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                                <img src="images/home/sale.png" class="new" alt="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="https://s-media-cache-ak0.pinimg.com/736x/90/52/86/90528622382a9766e1860f6d0a76a2ec.jpg" alt="" />
+                                    <h2>$50</h2>
+                                    <p>Headbands</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 18);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$50</h2>
+                                        <p>Headbands</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 18);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div><!--FashionWomen features_items-->
+            </div><!--END row-->
+            <!--Kids features_items-->
+            <div class="row">
+                <div class="features_items" id="Kids">
+
+                    <h2 class="title text-center">Clothing for Kids</h2>
+                    <div class="col-sm-3"></div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://ecx.images-amazon.com/images/I/511q9upZttL._SY300_.jpg" alt="" />
+                                    <h2>$30</h2>
+                                    <p>Headband</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 19);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$30</h2>
+                                        <p>Headband</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 19);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=18210271" alt="" />
+                                    <h2>$100</h2>
+                                    <p>Dress</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 20);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$100</h2>
+                                        <p>Dress</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 20);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="http://www.peachandplum.com/cw3/assets/product_full/_MG_6669.jpg" alt="" />
+                                    <h2>$120</h2>
+                                    <p>T-Shirts</p>
+                                    @using (Html.BeginForm("AddToCart", "Shop"))
+                                    {
+                                        @Html.Hidden("ProductID", 21);
+                                        <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                    }  
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$120</h2>
+                                        <p>T-Shirts</p>
+                                        @using (Html.BeginForm("AddToCart", "Shop"))
+                                        {
+                                            @Html.Hidden("ProductID", 21);
+                                            <input type="submit" value="Add to cart" class="btn btn-default add-to-cart ">
+                                        }  
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div><!--Kids features_items-->
+            </div><!--END row-->
+
+
+        </div><!--End Row-->
+    </div><!--.container END-->
+</section>
+
+
+
+
+

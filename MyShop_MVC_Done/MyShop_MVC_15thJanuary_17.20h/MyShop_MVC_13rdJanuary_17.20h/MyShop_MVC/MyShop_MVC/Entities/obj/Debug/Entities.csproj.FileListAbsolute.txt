@@ -1,0 +1,17 @@
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\Entities\bin\Debug\Entities.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\Entities\bin\Debug\Entities.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\Entities\obj\Debug\Entities.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\Entities\obj\Debug\Entities.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\bin\Debug\Entities.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\bin\Debug\Entities.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\obj\Debug\Entities.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\obj\Debug\Entities.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\bin\Debug\Entities.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\bin\Debug\Entities.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\obj\Debug\Entities.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\obj\Debug\Entities.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\bin\Debug\Entities.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\bin\Debug\Entities.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\obj\Debug\Entities.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,14 @@
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\SL\bin\Debug\SL.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\SL\bin\Debug\SL.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\SL\obj\Debug\SL.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\SL\obj\Debug\SL.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\SL\bin\Debug\SL.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\SL\bin\Debug\SL.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\SL\obj\Debug\SL.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\SL\obj\Debug\SL.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\SL\obj\Debug\SL.csprojResolveAssemblyReference.cache
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\SL\bin\Debug\SL.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\SL\bin\Debug\SL.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\SL\obj\Debug\SL.csprojResolveAssemblyReference.cache
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\SL\obj\Debug\SL.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\SL\obj\Debug\SL.pdb

@@ -1,0 +1,77 @@
+﻿@model List<MyShop_MVC.Models.Product>
+@{
+    ViewBag.Title = "AddToCart";
+    var list = Model;
+    var u = (string)Session["user"];
+}
+<section id="cart_items">
+    <div class="container">
+        <div class="breadcrumbs">
+            <ol class="breadcrumb">
+                <li><a href="/Shop/Index">Home</a></li>
+                <li><a href="/Shop/Products">Products</a></li>
+                <li class="active">Cart</li>
+            </ol>
+        </div><!--/breadcrums-->
+        <div class="table-responsive cart_info">
+            <table class="table table-condensed">
+                @if (list != null)
+                {
+                    <thead>
+                        <tr class="cart_menu">
+                            <td class="image">Item</td>
+                            <td class="description"></td>
+                            <td class="price">Price</td>
+                            <td class="quantity">Quantity</td>
+                            <td class="total">Total</td>
+                            <td></td>
+                        </tr>
+                    </thead>
+
+                    foreach (var i in list)
+                    {
+                        <tbody>
+                            <tr>
+                                <td class="cart_product">
+                                    <a href=""><img src="images/cart/one.png" alt=""></a>
+                                </td>
+                                <td class="cart_description">
+                                    <h4><a href="">@i.Name</a></h4>
+                                    <p>Web ID: 1089772</p>
+                                </td>
+                                <td class="cart_price">
+                                    <p>@i.Price</p>
+                                </td>
+                                <td class="cart_quantity">
+                                    <div class="cart_quantity_button">
+                                        <a class="cart_quantity_up" href=""> + </a>
+                                        <input class="cart_quantity_input" type="text" name="quantity" value="1" autocomplete="off" size="2">
+                                        <a class="cart_quantity_down" href=""> - </a>
+                                    </div>
+                                </td>
+                                <td class="cart_total">
+                                    <p class="cart_total_price">@i.Price</p>
+                                </td>
+                                <td class="cart_delete">
+                                    <a class="cart_quantity_delete" href=""><i class="fa fa-times"></i></a>
+                                </td>
+                            </tr>                            
+                        </tbody>                        
+                    }                    
+                }
+                else
+                {
+                    <div class="register-req">
+                        <p>Your Cart is Empty!!</p>
+                    </div><!--/register-req-->
+                }
+            </table>
+        </div>
+    </div>
+</section>
+
+
+
+<section>
+    <a href="/Shop/checkout" class="btn btn-success">Checkout</a>
+</section>

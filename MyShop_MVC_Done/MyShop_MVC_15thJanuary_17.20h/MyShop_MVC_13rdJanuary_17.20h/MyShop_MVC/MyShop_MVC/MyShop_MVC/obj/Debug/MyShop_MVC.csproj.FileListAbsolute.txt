@@ -1,0 +1,266 @@
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll.config
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.pdb
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\Antlr3.Runtime.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\EntityFramework.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.Optimization.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.Providers.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\WebGrease.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\EntityFramework.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.xml
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.csprojResolveAssemblyReference.cache
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.dll
+c:\users\ewerdney\documents\visual studio 2013\Projects\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll.config
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Antlr3.Runtime.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Optimization.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Providers.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\WebGrease.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.csprojResolveAssemblyReference.cache
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\SimpleCrypto.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll.config
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Antlr3.Runtime.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\SimpleCrypto.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Optimization.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Providers.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\WebGrease.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll.config
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Antlr3.Runtime.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\SimpleCrypto.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Optimization.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Providers.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\WebGrease.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.csprojResolveAssemblyReference.cache
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_14thJanuary_0820h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll.config
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Antlr3.Runtime.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\SimpleCrypto.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Optimization.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Providers.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\WebGrease.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_14ThJanuary_17.00h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll.config
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Antlr3.Runtime.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\SimpleCrypto.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Optimization.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Providers.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\WebGrease.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.pdb
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.csprojResolveAssemblyReference.cache
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.dll
+C:\Users\ndmendis\Desktop\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll.config
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\MyShop_MVC.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Antlr3.Runtime.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\SimpleCrypto.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Optimization.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Providers.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\WebGrease.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\DL.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Entities.pdb
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\Newtonsoft.Json.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Mvc.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.Razor.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.csprojResolveAssemblyReference.cache
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.dll
+C:\Users\Ewerdney\Desktop\Current Project\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_15thJanuary_17.20h\MyShop_MVC_13rdJanuary_17.20h\MyShop_MVC\MyShop_MVC\MyShop_MVC\obj\Debug\MyShop_MVC.pdb

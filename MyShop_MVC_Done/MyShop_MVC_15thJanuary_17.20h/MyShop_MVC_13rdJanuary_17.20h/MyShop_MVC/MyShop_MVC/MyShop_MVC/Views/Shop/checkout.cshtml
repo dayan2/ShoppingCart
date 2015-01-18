@@ -1,0 +1,212 @@
+﻿@model List<MyShop_MVC.Models.Product>
+@{
+    ViewBag.Title = "checkout";
+    var list = Model;
+    var count = (int)list.Count();        
+    
+    var u = (string)Session["user"];
+}
+<section id="cart_items">
+    <div class="container">
+        <div class="breadcrumbs">
+            <ol class="breadcrumb">
+                <li><a href="/Shop/Index">Home</a></li>
+                <li><a href="/Shop/Products">Products</a></li>
+                <li><a href="/Shop/AddToCart">Cart</a></li>
+                <li class="active">Check out</li>
+            </ol>
+        </div><!--/breadcrums-->
+
+        <div class="shopper-informations">
+            <div class="row">
+                <div class="col-sm-3">
+                    <div class="shopper-info">
+                        <p>Shopper Information</p>
+                        <form>
+                            <input type="text" placeholder="Display Name">
+                            <input type="text" placeholder="User Name">
+                            <input type="password" placeholder="Password">
+                            <input type="password" placeholder="Confirm password">
+                        </form>
+                    </div>
+                </div>
+                <div class="col-sm-5 clearfix">
+                    <div class="bill-to">
+                        <p>Bill To</p>
+                        <div class="form-one">
+                            <form>
+                                <input type="text" placeholder="Company Name">
+                                <input type="text" placeholder="Email*">
+                                <input type="text" placeholder="Title">
+                                <input type="text" placeholder="First Name *">
+                                <input type="text" placeholder="Middle Name">
+                                <input type="text" placeholder="Last Name *">
+                                <input type="text" placeholder="Address 1 *">
+                                <input type="text" placeholder="Address 2">
+                            </form>
+                        </div>
+                        <div class="form-two">
+                            <form>
+                                <input type="text" placeholder="Zip / Postal Code *">
+                                <select>
+                                    <option>-- Country --</option>
+                                    <option>United States</option>
+                                    <option>Bangladesh</option>
+                                    <option>UK</option>
+                                    <option>India</option>
+                                    <option>Pakistan</option>
+                                    <option>Ucrane</option>
+                                    <option>Canada</option>
+                                    <option>Dubai</option>
+                                </select>
+                                <select>
+                                    <option>-- State / Province / Region --</option>
+                                    <option>United States</option>
+                                    <option>Bangladesh</option>
+                                    <option>UK</option>
+                                    <option>India</option>
+                                    <option>Pakistan</option>
+                                    <option>Ucrane</option>
+                                    <option>Canada</option>
+                                    <option>Dubai</option>
+                                </select>
+                                <input type="password" placeholder="Confirm password">
+                                <input type="text" placeholder="Phone *">
+                                <input type="text" placeholder="Mobile Phone">
+                                <input type="text" placeholder="Fax">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="order-message">
+                        <p>Shipping Order</p>
+                        <textarea name="message" placeholder="Notes about your order, Special Notes for Delivery" rows="16"></textarea>
+                        <label><input type="checkbox"> Shipping to bill address</label>
+                    </div>
+                </div>
+            </div>
+        </div><!--END shopper-informations-->
+
+
+    </div><!--END container-->
+</section>
+
+
+
+
+
+<div class="container">
+    <div class="review-payment">
+        <h2>Review & Payment</h2>
+        <section id="cart_items">
+            <div class="container">
+                <div class="table-responsive cart_info">
+                    <table class="table table-condensed">
+                        @if (list != null)
+                        {
+                            <thead>
+                                <tr class="cart_menu">
+                                    <td class="image">Item</td>
+                                    <td class="description"></td>
+                                    <td class="price">Price</td>
+                                    <td class="quantity">Quantity</td>
+                                    <td class="total">Total</td>
+                                    <td></td>
+                                </tr>
+                            </thead>
+                            
+                            foreach (var i in list)
+                            {
+                                <tbody>
+                                    <tr>
+                                        <td class="cart_product">
+                                            <a href=""><img src="images/cart/one.png" alt=""></a>
+                                        </td>
+                                        <td class="cart_description">
+                                            <h4><a href="" id="name">@i.Name</a></h4>
+                                            <p>Web ID: 1089772</p>
+                                        </td>
+                                        <td class="cart_price">
+                                            <p>@i.Price</p>
+                                        </td>
+                                        <td class="cart_quantity">
+                                            <div class="cart_quantity_button">
+                                                <a class="cart_quantity_up" href=""> + </a>
+                                                <input class="cart_quantity_input" type="text" name="quantity" value="1" autocomplete="off" size="2">
+                                                <a class="cart_quantity_down" href=""> - </a>
+                                            </div>
+                                        </td>
+                                        <td class="cart_total">
+                                            <p class="cart_total_price" id="price">@i.Price</p>
+                                        </td>
+                                        <td class="cart_delete">
+                                            <a class="cart_quantity_delete" href=""><i class="fa fa-times"></i></a>
+                                        </td>
+                                    </tr>
+
+                                </tbody>
+                            }
+                        }
+                        else
+                        {
+                            <div class="register-req">
+				                <p>Your Cart is Empty!!</p>
+			                </div><!--/register-req-->
+                        }
+                    </table>
+
+                    <div class="row">
+                        <div class="col-sm-8"></div>
+                        <div class="col-sm-4">
+                            <table class="table table-condensed total-result">
+                                <tr>
+                                    <td>Cart Sub Total</td>
+                                    <td><div class="total"></div></td>
+                                </tr>
+                                <tr>
+                                    <td>Tax</td>
+                                    <td>$2.0</td>
+                                </tr>
+                                <tr class="shipping-cost">
+                                    <td>Shipping Cost</td>
+                                    <td>Free</td>
+                                </tr>
+                                <tr>
+                                    <td>Total</td>
+                                    <td><span class="aftertax"></span></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div> 
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="col-sm-10"></div>
+    <div class="col-sm-2"><a href="#" class="btn btn-primary btn-lg">Pay Now</a></div>    
+</div>
+
+<div class="cont"></div>
+<div id="count" style="display: none;" >@count</div>   
+@section scripts{
+    <script type="text/javascript">
+        (function () {
+            var count = parseInt($('#count').text()),
+                sum = 0;
+
+            $('tbody .cart_total #price').each(function () {
+                //$(this).clone().appendTo($('.cont'));
+                sum += parseInt($(this).text());
+
+            });
+
+            $('.total').append(sum);
+            $('.aftertax').append(sum + 2);
+        }());;
+    </script>
+}

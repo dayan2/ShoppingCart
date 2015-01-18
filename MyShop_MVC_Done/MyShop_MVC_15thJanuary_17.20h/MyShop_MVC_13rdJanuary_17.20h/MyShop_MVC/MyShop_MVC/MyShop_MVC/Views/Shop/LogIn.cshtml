@@ -1,0 +1,50 @@
+﻿@model MyShop_MVC.Models.User
+@{
+    ViewBag.Title = "LogIn";
+    var u = (string)Session["user"];
+}
+@*<section id="form">*@
+    <!--form-->
+    <div class="container">
+        <div class="breadcrumbs">
+            <ol class="breadcrumb">
+                <li><a href="/Shop/Index">Home</a></li>
+                <li class="active">LogIn</li>
+            </ol>
+        </div><!--/breadcrums-->
+        <div class="row">
+            <div class="col-sm-4 col-sm-offset-1">
+                <div class="login-form">
+                    <!--login form-->
+                    <h2>Login to your account</h2>
+                    @using (Html.BeginForm("LogIn", "Shop"))
+                    { 
+                        <input type="email" placeholder="Email Address" name="username"/>                        
+                        <input type="text" placeholder="Password" name="password" />
+                        <span>
+                            <input type="checkbox" class="checkbox">
+                            Keep me signed in
+                        </span>
+                        <button type="submit" class="btn btn-default">Login</button>
+                    }
+                </div><!--/login form-->
+            </div>
+            <div class="col-sm-1">
+                <h2 class="or">OR</h2>
+            </div>
+            <div class="col-sm-4">
+                <div class="signup-form">
+                    <!--sign up form-->
+                    <h2>New User Signup!</h2>
+                    @using (Html.BeginForm("Register", "Shop"))
+                    { 
+                        <input type="text" placeholder="Name" />
+                        <input type="email" placeholder="Email Address" name="username"/>
+                        <input type="password" placeholder="Password" name="password"/>
+                        <button type="submit" class="btn btn-default">Signup</button>
+                    }
+                </div><!--/sign up form-->
+            </div>
+        </div>
+    </div>
+@*</section>/form*@
